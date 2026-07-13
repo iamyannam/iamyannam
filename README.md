@@ -47,23 +47,11 @@ A Senior DevOps Engineer & Cloud Platform Engineer with 8+ years of experience d
 
 ---
 
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamyannam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rajasekhar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyannam&theme=dark&hide_border=true" alt="Rajasekhar's Streak Stats" width="48%" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/rajasekhar-reddy-yannam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:rajasekhar.yannam22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
