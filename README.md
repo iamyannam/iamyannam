@@ -20,6 +20,12 @@ A Senior DevOps Engineer & Cloud Platform Engineer with 8+ years of experience d
 
 ---
 
+### 🚀 What I'm Building
+* 🤖 **AI for DevOps** — A hands-on journey covering LLMs, GenAI, RAG, Agents, MCP, LLMOps, and practical DevOps projects.
+* ⚙️ **AI DevOps Release Assistant** — An AI-powered DevOps assistant for real-world release and deployment workflows.
+* 🔄 **Release Automation** — Multi-repository GitHub release orchestration for automating branches, CI/CD, releases, and release visibility.
+* 🧠 **DevOps AI Agent Hub** — A growing collection of practical AI agents designed to solve real DevOps problems.
+
 ### ⚡ What I Do Best
 
 *   **Multi-Cloud Architecture & Migration:** Proven track record of cloud-to-cloud and on-prem-to-cloud transformations (including zero-downtime GCP and Azure migrations).
